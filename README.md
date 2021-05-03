@@ -4,18 +4,13 @@
 </h1>
 <p align="left">🚀 App para procurar e visualizar perfis de usuários do Git Hub </p>**
 
- * [Instalação](#instalacao)
- * [Como usar](#como-usar)
- * [Pre Requisitos](#pre-requisitos)
- * [Tecnologias](#tecnologias)
-
-### Pré-requisitos[Pre Requisitos]
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o GitSearch[Instalação]
+### 🎲 Rodando o GitSearch
 
 ```bash
 # Clone este repositório
@@ -32,11 +27,11 @@ $ npm run server
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
-### Como Usar[Como usar]
+### Como Usar
 
 - Digite no campo superior direito o usuário que deseja pesquisar
 
-### 🛠 Tecnologias[Tecnologias]
+### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
