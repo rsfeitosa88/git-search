@@ -23,7 +23,7 @@ $ cd git-search
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run server
+$ npm run serve
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
