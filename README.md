@@ -1,4 +1,4 @@
-# git-search
+# GitSearch
 <h1 align="center">
     <a href="https://vuejs.org/">🔗 Vue</a>
 </h1>
@@ -7,21 +7,16 @@
 * [Sobre](#Sobre)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+   * [Pre Requisitos](#pre-requisitos)
    * [Tecnologias](#tecnologias)
 
-### Pré-requisitos
+### Pré-requisitos(#pre-requisitos)
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o GitSearch(#instalacao)
 
 ```bash
 # Clone este repositório
@@ -38,8 +33,11 @@ $ npm run server
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
+### Como Usar(#como-usar)
 
-### 🛠 Tecnologias
+- Digite no campo superior direito o usuário que deseja pesquisar
+
+### 🛠 Tecnologias(#tecnologias)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -50,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  🚀 Em construção...  🚧
 </h4>
 
 ### Customize configuration
